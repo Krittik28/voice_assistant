@@ -11,7 +11,7 @@ This program uses OpenAI's GPT-3 to generate responses to user speech input. The
 # Usage
 
     Set your OpenAI API key in the openai.api_key variable.
-    Install the required libraries using pip install pyttsx3 
+    Install the required libraries using pip install -r requirements.txt
 # speechrecognition.
     Run the program with python main.py.
     Say "hello" to start the program.
